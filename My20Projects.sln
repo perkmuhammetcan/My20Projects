@@ -13,9 +13,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project4_EntityFrameworkCod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project5_DapperNorthWind", "Project5_DapperNorthWind\Project5_DapperNorthWind.csproj", "{C9B5C73A-0B31-490A-B7BF-403B42BC1526}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project6_ApiWeather", "Project6_ApiWeather\Project6_ApiWeather.csproj", "{274519F0-6127-43B3-831D-E4CEA3693AB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project6_ApiWeather", "Project6_ApiWeather\Project6_ApiWeather.csproj", "{274519F0-6127-43B3-831D-E4CEA3693AB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project7_ApiWeatherConsume", "Project7_ApiWeatherConsume\Project7_ApiWeatherConsume.csproj", "{364D014A-0D20-4E32-B744-5A2857478F45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project7_ApiWeatherConsume", "Project7_ApiWeatherConsume\Project7_ApiWeatherConsume.csproj", "{364D014A-0D20-4E32-B744-5A2857478F45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project8_RapidApiCurrency", "Project8_RapidApiCurrency\Project8_RapidApiCurrency.csproj", "{1C9F563D-1E51-4EE1-9A4E-E16733E02FF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project9_MongoDbOrder", "Project9_MongoDbOrder\Project9_MongoDbOrder.csproj", "{93A544B5-33F0-4878-A6C0-EF753FDBDE8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project10_PostgreSqlToDoListApp", "Project10_PostgreSqlToDoListApp\Project10_PostgreSqlToDoListApp.csproj", "{74469763-4806-4599-AB5A-9123B6455B65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{364D014A-0D20-4E32-B744-5A2857478F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{364D014A-0D20-4E32-B744-5A2857478F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{364D014A-0D20-4E32-B744-5A2857478F45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C9F563D-1E51-4EE1-9A4E-E16733E02FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9F563D-1E51-4EE1-9A4E-E16733E02FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9F563D-1E51-4EE1-9A4E-E16733E02FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9F563D-1E51-4EE1-9A4E-E16733E02FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93A544B5-33F0-4878-A6C0-EF753FDBDE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93A544B5-33F0-4878-A6C0-EF753FDBDE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93A544B5-33F0-4878-A6C0-EF753FDBDE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93A544B5-33F0-4878-A6C0-EF753FDBDE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74469763-4806-4599-AB5A-9123B6455B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74469763-4806-4599-AB5A-9123B6455B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74469763-4806-4599-AB5A-9123B6455B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74469763-4806-4599-AB5A-9123B6455B65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
