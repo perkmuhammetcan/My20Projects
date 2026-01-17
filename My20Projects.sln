@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project14_SQLAllRelation", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project15_GasPriceSimulation", "Project15_GasPriceSimulation\Project15_GasPriceSimulation.csproj", "{F88AB69F-0200-4BDD-98E1-FB29E3681EE3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project16_MailRegister", "Project16_MailRegister\Project16_MailRegister.csproj", "{A5773282-734C-4321-8AAF-06FB15EE404B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{F88AB69F-0200-4BDD-98E1-FB29E3681EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F88AB69F-0200-4BDD-98E1-FB29E3681EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F88AB69F-0200-4BDD-98E1-FB29E3681EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5773282-734C-4321-8AAF-06FB15EE404B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5773282-734C-4321-8AAF-06FB15EE404B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5773282-734C-4321-8AAF-06FB15EE404B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5773282-734C-4321-8AAF-06FB15EE404B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
